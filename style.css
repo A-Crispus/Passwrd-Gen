@@ -12,7 +12,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #43A047;
+    background: #737e73;
 }
 
 .container{
@@ -55,11 +55,11 @@ body{
     right: 13px;
     cursor: pointer;
     line-height: 53px;
-    color: #707070;
+    color: #cdb2b2;
 }
 
 .input-box span:hover{
-    color: #43A047 !important;
+    color: #284a29 !important;
 }
 
 .wrapper .pass-indicator{
